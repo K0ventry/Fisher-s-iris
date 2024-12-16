@@ -31,7 +31,7 @@ html_content = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>6ЛР. Шеламов К203с9-1</title>
+    <title>Коваленко Артем</title>
 </head>
 <body>
     <h1>Поле ввода значений для ирисов</h1>
